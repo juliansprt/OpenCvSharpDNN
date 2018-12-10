@@ -1,6 +1,6 @@
 # OpenCvSharp DNN
 
-Example of implementation of YoloV3 and Caffe in [OpenCvSharp](https://github.com/shimat/opencvsharp)
+Example of implementation of YoloV3 and Caffe in [OpenCvSharp](https://github.com/shimat/opencvsharp), in this example it is used pre-trained models to detect persons, faces and a estimation of the probability gender of the faces detected
 ## Requirements
 
  - Net Framework 4.7.2
