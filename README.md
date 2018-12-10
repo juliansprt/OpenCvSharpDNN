@@ -94,10 +94,10 @@ Caffe Age and Gender Classification | https://talhassner.github.io/home/publicat
 
 For the next image:
 
-![Input image](https://raw.githubusercontent.com/juliansprt/OpenCvSharpDNN/master/friends.jpg)
+![Input image](https://raw.githubusercontent.com/juliansprt/OpenCvSharpDNN/master/input_image.jpg)
 
 This is the result:
-![Input image](https://raw.githubusercontent.com/juliansprt/OpenCvSharpDNN/master/result.jpg)
+![Input image](https://raw.githubusercontent.com/juliansprt/OpenCvSharpDNN/master/result_image.jpg)
 
 And this is the diagnostics the time of execution:
 The model NetYoloV3 - Faces has taken **1609 milliseconds**
