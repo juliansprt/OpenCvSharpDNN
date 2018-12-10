@@ -100,6 +100,7 @@ This is the result:
 ![Input image](https://raw.githubusercontent.com/juliansprt/OpenCvSharpDNN/master/result_image.jpg)
 
 And this is the diagnostics the time of execution:
+
 The model NetYoloV3 - Faces has taken **1609 milliseconds**
 The model NetCaffeGender has taken **45 milliseconds**
 
