@@ -9,7 +9,7 @@ Example of implementation of YoloV3 and Caffe in [OpenCvSharp](https://github.co
 ## Usage
 
 This is a implementation usage in YoloV3 and Caffe models
-
+ ```csharp
             //Directory contains the models and configuration files
             string dir = System.IO.Path.Combine(Directory.GetCurrentDirectory(), "data");
 
@@ -79,7 +79,7 @@ This is a implementation usage in YoloV3 and Caffe models
                 resultImage.Save(Path.Combine(dir, "result.jpg"));
 
             }
-
+```
 ## Pre-trained models
 You can download the pre-trained models in these links:
 
