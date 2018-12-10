@@ -102,3 +102,6 @@ This is the result:
 And this is the diagnostics the time of execution:
 The model NetYoloV3 - Faces has taken **1609 milliseconds**
 The model NetCaffeGender has taken **45 milliseconds**
+
+## License
+Licensed under the [MIT License](https://github.com/juliansprt/OpenCvSharpDNN/blob/master/LICENSE).
