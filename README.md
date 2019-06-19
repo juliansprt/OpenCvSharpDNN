@@ -81,13 +81,10 @@ This is a implementation usage in YoloV3 and Caffe models
             }
 ```
 ## Pre-trained models
-You can download the pre-trained models in these links:
+You can download the pre-trained models in these link:
 
-Pre-trained model | Link 
---- | --- 
-YoloV3 | https://pjreddie.com/darknet/yolo/ 
-YoloV3 Faces | http://mmlab.ie.cuhk.edu.hk/projects/WIDERFace/index.html 
-Caffe Age and Gender Classification | https://talhassner.github.io/home/publication/2015_CVPR 
+Google Drive:
+https://drive.google.com/drive/folders/1oj9p04mPjbbCbq1qSK8ChMjOhMLMpk42
 
 
 ## Results
